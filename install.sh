@@ -4,7 +4,7 @@
 FILENAME="node-v6.10.3"
 
 INSTALL_PATH="/usr/local/src"
-BIN_PATH="/usr/local/bin"
+BIN_PATH="/bin"
 DATE=$(date +%Y%m%d)
 
 echo -e "\nnode-v6.10.3 install......\n"
